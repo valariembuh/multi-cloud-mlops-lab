@@ -1,0 +1,5 @@
+location       = "eastus2"
+project_prefix = "mlops"
+github_org     = "YOUR_GITHUB_USER_OR_ORG"
+github_repo    = "YOUR_REPO_NAME"
+github_branch  = "main"
